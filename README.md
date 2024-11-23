@@ -1,4 +1,4 @@
-[![MasterHead]https://raw.githubusercontent.com/Parag0506/AndroidDevChallenge/master/assets/androidDevChallenge.png)](https://rishavchanda.io)
+[![MasterHead]https://raw.githubusercontent.com/Parag0506/AndroidDevChallenge/master/assets/androidDevChallenge.png)]
 <h1 align="center">Hi 👋, I'm Syed Saddam</h1>
 <h3 align="center">A passionate Android Developer from Pakistan</h3>
 (img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif")
