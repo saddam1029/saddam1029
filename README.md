@@ -25,9 +25,14 @@
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=saddam1029&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saddam1029&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
-![https://github-profile-trophy.vercel.app/?username=saddam1029&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=saddam1029&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+!https://github-profile-trophy.vercel.app/?username=saddam1029&theme=radical&no-frame=false&no-bg=true&margin-w=4
+
+### 🔝 Top Contributed Repo
+!https://github-contributor-stats.vercel.app/api?username=saddam1029&limit=5&theme=dark&combine_all_yearly_contributions=true
 
 ---
-![Visitors](https://visitcount.itsvg.in/api?id=saddam1029&icon=6&color=6)
+![](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 *Professional Android Developer | 2+ Years Building Scalable Apps*
